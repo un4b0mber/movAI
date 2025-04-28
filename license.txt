@@ -1,0 +1,122 @@
+Copyright (c) 2024 movAI
+
+Permission is hereby granted to any person who has either an active monthly subscription or is using the free, ad-supported version to access and use this Software, subject to the following conditions:
+
+1. Restrictions
+The Software may not be copied, modified, merged, published, distributed, sublicensed, or sold without prior written permission from movAI.
+Unauthorized sharing, redistribution, or use of the Software by persons without a valid subscription or permitted access is strictly prohibited. Any violation of this clause may result in immediate termination of access.
+
+2. License Period
+For subscribers, the license is granted for a period of one month from the date of each subscription payment.
+For users of the free, ad-supported version, the license is valid as long as movAI continues to offer the Software in this format and the user complies with all license terms. movAI may terminate this access at any time without notice.
+
+3. Automatic Renewal
+Subscription renews automatically each month as long as the payment method remains active and payment is successfully processed. movAI reserves the right to change subscription fees at any time with prior notice.
+Users will be notified in advance of any changes to subscription pricing or terms.
+
+4. User Rights
+Subscribers and free users have the right to use the Software solely for its intended purpose.
+Subscribers are entitled to receive updates and improvements during the active subscription period at movAI’s discretion. Free users will receive updates at movAI’s discretion and may not receive all features available to subscribers.
+
+5. Subscription Cancellation
+Subscribers may cancel the subscription at any time before the end of the current monthly period. However, no refunds will be issued for partial months.
+Upon cancellation, access to subscriber-only features will terminate at the end of the current paid period, and the user may revert to the free, ad-supported version if available.
+
+6. Non-payment of Subscription
+If a subscription payment is missed or fails, the license automatically expires, and access to subscriber-only features will be revoked until payment is reestablished.
+
+7. Limitation of Liability
+The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall movAI, its affiliates, or its licensors be liable for any indirect, incidental, consequential, or punitive damages arising from or in connection with the Software or its use.
+
+8. Legal Compliance
+The user agrees to use the Software in accordance with all applicable laws and regulations. movAI does not bear any responsibility for illegal activities conducted using the Software, and the user assumes full liability for any violations of law while using the Software.
+
+9. User Data Privacy
+movAI may collect and process user data to ensure the Software functions correctly, improve its features, and display ads in the free version. All data is processed in accordance with applicable data protection laws. movAI reserves the right to use aggregated data for analytics and marketing purposes.
+
+10. Intellectual Property Rights
+All rights to trademarks, trade names, logos, and visual elements related to the Software are owned by movAI and protected by copyright law. Any unauthorized use of these rights is strictly prohibited and may result in legal action.
+
+11. Prohibition of Reverse Engineering and Security Circumvention
+The user is prohibited from reverse engineering, decompiling, disassembling, bypassing security measures, or attempting to manipulate the Software to gain access to features without payment or remove advertisements.
+
+12. Ad Display in Free Version
+Users of the free version consent to the display of advertisements as an integral part of the Software. movAI reserves the right to change the types or frequency of advertisements at any time without notice.
+
+13. Right to Terminate Access
+movAI reserves the right to immediately terminate access to the Software if any of the license terms are violated or if the user engages in any conduct deemed harmful to movAI or its Software.
+
+14. Regional Restrictions
+The Software may be unavailable or restricted in certain regions or countries due to applicable regulations or movAI’s policy. The user is responsible for ensuring compliance with local laws before using the Software.
+
+15. Technical Support
+Subscribers have access to technical support throughout the subscription period. Support for users of the free version is limited and provided at movAI’s discretion.
+
+16. Governing Law and Jurisdiction
+This license is governed by the laws of Poland. Any disputes arising from this agreement shall be settled exclusively in the courts of movAI’s principal place of business, and users waive any objections based on venue or jurisdiction.
+
+17. Force Majeure
+movAI shall not be liable for any failure to perform its obligations under this agreement if such failure results from any cause beyond movAI's reasonable control, including, but not limited to, acts of God, government actions, war, fire, flood, natural disasters, and infrastructure failures.
+
+18. Assignment
+The user may not assign or transfer any rights or obligations under this license without prior written consent from movAI. movAI reserves the right to assign or transfer this license in its sole discretion.
+
+19. Severability
+If any provision of this license is found to be invalid or unenforceable by a court of competent jurisdiction, the remaining provisions shall remain in full force and effect.
+
+20. Entire Agreement
+This license constitutes the entire agreement between the parties regarding the Software and supersedes all prior agreements, understandings, or representations, whether oral or written.
+
+21. Feedback and Suggestions
+Users are encouraged to provide feedback or suggestions regarding the Software. Any feedback provided will be deemed non-confidential and may be used by movAI without any obligation to the user.
+
+22. Notifications
+All notices required or permitted under this license shall be in writing and shall be deemed delivered when sent via email or other electronic communication to the address provided by the user at the time of registration.
+
+23. Changes to the License
+movAI reserves the right to modify the terms of this license at any time. Users will be notified of any changes, and continued use of the Software after such notification constitutes acceptance of the new terms.
+
+24. Use of Qt Framework
+This Software utilizes the Qt framework, which is licensed under the GNU Lesser General Public License (LGPL) version 3 and/or the GNU General Public License (GPL) version 3. Compliance with the terms of the LGPL or GPL is mandatory when using, distributing, or modifying the portions of the Software that rely on Qt.
+
+25. Obligations Regarding Qt Licensing
+(a) If you distribute the Software, you must dynamically link to the Qt libraries as required by the LGPL.
+(b) Any modifications made to the Qt libraries by movAI or the user must be made available under the terms of the LGPL or GPL.
+(c) Users must not remove or circumvent any licensing notices or requirements associated with Qt.
+(d) For more details regarding the Qt licensing terms, refer to https://www.qt.io/licensing.
+
+26. Attribution for Qt Framework
+In accordance with the LGPL or GPL, this Software acknowledges the use of the Qt framework. All copyrights and trademarks related to Qt are the property of their respective owners.
+
+27. Use of Third-Party Libraries
+This Software makes use of the following third-party libraries, which are subject to their respective licenses. The user agrees to comply with the terms of these licenses when using this Software:
+
+Python Standard Library (e.g., os, random, re, math, time, json, threading, sqlite3, etc.) - Licensed under the Python Software Foundation License (PSF). See https://docs.python.org/3/license.html
+
+moviepy - Licensed under the MIT License. See https://github.com/Zulko/moviepy
+
+scipy.ndimage (SciPy) - Licensed under the BSD License. See https://scipy.org/about/license.html
+
+Pillow (PIL) - Licensed under the HPND License. See https://python-pillow.org/license.html
+
+requests - Licensed under the Apache License 2.0. See https://github.com/psf/requests/blob/main/LICENSE
+
+pysrt - Licensed under the MIT License. See https://github.com/byroot/pysrt
+
+OpenCV (cv2) - Licensed under the Apache License 2.0. See https://github.com/opencv/opencv/blob/master/LICENSE
+
+scikit-learn (sklearn.feature_extraction.text) - Licensed under the BSD License. See https://scikit-learn.org/stable/about.html#license
+
+nltk - Licensed under the Apache License 2.0. See https://www.nltk.org/license.html
+
+mutagen.mp3 - Licensed under the GPL License. See https://github.com/quodlibet/mutagen
+
+bcrypt - Licensed under the Apache License 2.0. See https://github.com/pyca/bcrypt/blob/main/LICENSE
+
+openai-whisper - Licensed under the MIT License. See https://github.com/openai/whisper
+
+The user acknowledges that movAI does not own the intellectual property rights to these libraries. All copyrights and trademarks belong to their respective owners.
+
+28. Use of Kokoro-82M TTS Model
+This Software utilizes the Kokoro-82M TTS model, available on Hugging Face, which is licensed under the Apache License 2.0. Copyright (c) 2024 by its respective owner(s). The use of this model is subject to its own licensing terms, which can be found at https://huggingface.co/hexgrad/Kokoro-82M.
+
