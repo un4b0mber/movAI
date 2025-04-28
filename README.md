@@ -17,6 +17,13 @@ Welcome to the repository for **movAI** — an advanced tool designed to automat
 - The files located in this repository are **for preview only**.
 - Due to the size of the necessary assets and dependencies, the full program must be installed via the provided installer.
 
+## Technical Information
+
+- The graphical user interface (GUI) was built using **CustomTkinter**.
+- The executable (.exe) file was created using **Nuitka**.
+- The installer was built using **Inno Setup**.
+- The core functionality is implemented using powerful libraries such as **MoviePy**, **OpenCV (cv2)**, **glitch-this**, **PIL** (Pillow), and several others.
+
 ## Screenshots
 
 Here are some previews from movAI:
