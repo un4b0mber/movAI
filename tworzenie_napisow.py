@@ -523,7 +523,7 @@ def download_icons(output_folder_path):
     ico_shape = "fill"  # fill, lineal-color, hand-drawn
 
     # API KEY
-    API_KEY = 'FPSX3a7f9fecb8514c5c9a7d8f53aa2813df'
+    API_KEY = ''
 
     headers = {
         "x-freepik-api-key": API_KEY,
@@ -1019,3 +1019,4 @@ def process_videos_with_audio(num_repeats, video_folder_path, audio_folder_path,
 
 
 print("Transkrypcja i tworzenie wideo zakończone.")
+
